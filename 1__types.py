@@ -17,5 +17,5 @@ emir = {
 # print(type(emir), emir)
 
 print(emir['yillar'])  # bu satırda emir sözlüğündeki yillar değerini yazacak - 24.02.2022 21:10
-print(ıüğişöç)
+# print(ıüğişöç)
 print(emir_yas)
